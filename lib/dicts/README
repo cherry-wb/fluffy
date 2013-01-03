@@ -1,0 +1,3 @@
+The dictionary was generated like this:
+cat sources/ispell/*.* sources/jargon*/*.lst | sort | uniq > dict.txt
+

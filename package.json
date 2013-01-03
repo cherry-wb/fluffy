@@ -1,0 +1,17 @@
+{
+  "author": "Grant Murphy <gmurphy@redhat.com>",
+  "name": "fluffy",
+  "description": "Fuzzing framework for node / browser (if you browserfy)",
+  "version": "0.0.1",
+  "dependencies": {
+    "underscore": "*"
+  },
+  "devDependencies": {
+    "should": "*", 
+    "mocha" : "*"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
